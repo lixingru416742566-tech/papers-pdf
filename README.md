@@ -13,7 +13,7 @@
 ## 📊 最新统计
 
 - **论文总数**: 22 篇（仅包含已下载 PDF 的论文）
-- **最后更新**: 2026-03-04 15:02:29
+- **最后更新**: 2026-03-04 15:06:25
 - **来源**: arxiv.org
 
 ---
@@ -22,12 +22,12 @@
 
 | # | PDF 文件名 | 原始标题 | 原始作者 | arxiv ID | 分析总结 |
 |---|-----------|----------|----------|----------|----------|
-| 1 | 2602.22449v1.pdf | A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection | Mirza Raquib | 2602.22449v1 | 待补充 |
-| 2 | 2602.13455v1.pdf | Using Machine Learning to Enhance the Detection of Obfuscated Abusive Words in Swahili: A Focus on Child Safety | Phyllis Nabangi | 2602.13455v1 | 待补充 |
-| 3 | 2602.09343v1.pdf | Not-in-Perspective: Towards Shielding Google's Perspective API Against Adversarial Negation Attacks | Michail S. Alexiou | 2602.09343v1 | 待补充 |
-| 4 | 2601.01090v2.pdf | Harm in AI-Driven Societies: An Audit of Toxicity Adoption on Chirper.ai | Erica Coppolillo | 2601.01090v2 | 待补充 |
-| 5 | 2512.19899v1.pdf | Detecting cyberbullying in Spanish texts through deep learning techniques | Paúl Cumba-Armijos | 2512.19899v1 | 待补充 |
-| 6 | 2603.03128v1.pdf | Behavior Change as a Signal for Identifying Social Media Manipulation | Isuru Ariyarathne, Gangani Ariyarathne, Alessandro Flammini, Filippo Menczer, Alexander C. Nwala | 2603.03128v1 | 待补充 |
+| 1 | 2602.22449v1.pdf | A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection | Mirza Raquib | 2602.22449v1 | 研究内容：孟加拉语多标签网络欺凌检测。方法：提出 BanglaBERT 与双层堆叠 LSTM 融合框... |
+| 2 | 2602.13455v1.pdf | Using Machine Learning to Enhance the Detection of Obfuscated Abusive Words in Swahili: A Focus on Child Safety | Phyllis Nabangi | 2602.13455v1 | 研究内容：斯瓦希里语混淆虐待词检测，聚焦儿童安全。方法：使用机器学习方法识别故意拼写变体的虐待词汇。... |
+| 3 | 2602.09343v1.pdf | Not-in-Perspective: Towards Shielding Google's Perspective API Against Adversarial Negation Attacks | Michail S. Alexiou | 2602.09343v1 | 研究内容：Google Perspective API 的对抗性否定攻击防御。方法：分析 API 对... |
+| 4 | 2601.01090v2.pdf | Harm in AI-Driven Societies: An Audit of Toxicity Adoption on Chirper.ai | Erica Coppolillo | 2601.01090v2 | 研究内容：Chirper.ai 社交平台毒性采用审计。方法：系统性评估 AI 驱动社会中的有害内容传... |
+| 5 | 2512.19899v1.pdf | Detecting cyberbullying in Spanish texts through deep learning techniques | Paúl Cumba-Armijos | 2512.19899v1 | 研究内容：西班牙语文本网络欺凌检测。方法：构建西班牙语欺凌语料库，使用深度学习技术进行分类。贡献：填... |
+| 6 | 2603.03128v1.pdf | Behavior Change as a Signal for Identifying Social Media Manipulation | Isuru Ariyarathne, Gangani Ariyarathne, Alessandro Flammini, Filippo Menczer, Alexander C. Nwala | 2603.03128v1 | 研究内容：社交媒体操控的行为变化信号识别。方法：使用 BLOC 框架将账号行为表示为符号序列，测量行... |
 | 7 | 2603.02684v1.pdf | HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse | Sai Kartheek Reddy Kasu, Shankar Biradar, Sunil Saumya, Md. Shad Akhtar | 2603.02684v1 | 研究内容：HateMirage，聚焦仇恨言论检测的数据集构建。方法：Subtle and indir... |
 | 8 | 2603.01187v1.pdf | Take the Power Back: Screen-Based Personal Moderation Against Hate Speech on Instagram | Anna Ricarda Luther, Hendrik Heuer, Stephanie Geise, Sebastian Haunss, Andreas Breiter | 2603.01187v1 | 研究内容：Take the Power Back: Screen-Based Personal Mo... |
 | 9 | 2602.22391v1.pdf | Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework | Rakib Ullah, Mominul islam, Md Sanjid Hossain, Md Ismail Hossain | 2602.22391v1 | 研究内容：Detecting Hate and Inflammatory Content in Be... |
