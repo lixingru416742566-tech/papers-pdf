@@ -1,39 +1,49 @@
 # 📚 arXiv 每日论文推荐 - 2026-03-05
 
-**生成时间**: 2026-03-05 09:50:46
-**总论文数**: 50 篇
+> **生成时间**: 2026-03-05 09:50:57  
+> **数据来源**: arXiv API  
+> **总论文数**: 50 篇
 
 ---
 
-## 🔴 网暴检测
+## 📊 今日概览
 
-*今日暂无论文*
-
-## 🔵 攻击中心演化
-
-*今日暂无论文*
-
-## 🟢 干预策略
-
-*今日暂无论文*
-
-## 🟡 用户行为画像
-
-**论文数**: 50 篇
-
-| 评分 | 标题 | 作者 | 链接 |
-|------|------|------|------|
-| ⭐4.0 | Speech recognition assisted by large language mode... | Fabio Cortes Rodriguez, Luciano Abriata | [PDF](https://arxiv.org/abs/2603.02901v1) |
-| ⭐4.0 | A Directed Graph Model and Experimental Framework ... | Songhai Fan, Simon Angus | [PDF](https://arxiv.org/abs/2603.02422v1) |
-| ⭐3.9 | Structural Hallucination in Large Language Models:... | Moses Boudourides | [PDF](https://arxiv.org/abs/2603.01341v1) |
-| ⭐3.9 | GCTAM: Global and Contextual Truncated Affinity Co... | Xiong Zhang, Hong Peng | [PDF](https://arxiv.org/abs/2603.01806v1) |
-| ⭐3.9 | Give me scissors: Collision-Free Dual-Arm Surgical... | Xuejin Luo, Shiquan Sun | [PDF](https://arxiv.org/abs/2603.02553v1) |
-| ⭐3.8 | An LLM-Assisted Toolkit for Inspectable Multimodal... | Zheyuan Kuang, Weiwei Jiang | [PDF](https://arxiv.org/abs/2603.02569v1) |
-| ⭐3.7 | Ignore All Previous Instructions: Jailbreaking as ... | Huw Day, Adrianna Jezierska | [PDF](https://arxiv.org/abs/2603.01942v1) |
-| ⭐3.6 | From Complex Dynamics to DynFormer: Rethinking Tra... | Pengyu Lai, Yixiao Chen | [PDF](https://arxiv.org/abs/2603.03112v1) |
-| ⭐3.6 | Revealing Positive and Negative Role Models to Hel... | Avrim Blum, Keziah Naggita | [PDF](https://arxiv.org/abs/2603.02495v1) |
-| ⭐3.6 | How Small Can 6G Reason? Scaling Tiny Language Mod... | Mohamed Amine Ferrag, Abderrahmane Lakas | [PDF](https://arxiv.org/abs/2603.02156v1) |
+| 方向 | 论文数 | 最高评分 |
+|------|--------|----------|
+| 🟡 用户行为画像 | 50 | ⭐4.0 |
 
 ---
 
-*报告由 OpenClaw 自动生成 | [GitHub 仓库](https://github.com/lixingru416742566-tech/papers-pdf)*
+## 📄 详细列表
+
+### 🟡 用户行为画像
+
+| ⭐评分 | 📌标题 | 👤作者 | 🔗链接 |
+|-------|-------|-------|--------|
+| ⭐⭐⭐ 4.0 | Speech recognition assisted by large language models to c... | Fabio Cortes Rodriguez, Luciano Abriata | [PDF](https://arxiv.org/abs/2603.02901v1) |
+| ⭐⭐⭐ 4.0 | A Directed Graph Model and Experimental Framework for Des... | Songhai Fan, Simon Angus et al. | [PDF](https://arxiv.org/abs/2603.02422v1) |
+| ⭐⭐⭐ 3.9 | Structural Hallucination in Large Language Models: A Netw... | Moses Boudourides | [PDF](https://arxiv.org/abs/2603.01341v1) |
+| ⭐⭐⭐ 3.9 | GCTAM: Global and Contextual Truncated Affinity Combined ... | Xiong Zhang, Hong Peng et al. | [PDF](https://arxiv.org/abs/2603.01806v1) |
+| ⭐⭐⭐ 3.9 | Give me scissors: Collision-Free Dual-Arm Surgical Assist... | Xuejin Luo, Shiquan Sun et al. | [PDF](https://arxiv.org/abs/2603.02553v1) |
+| ⭐⭐⭐ 3.8 | An LLM-Assisted Toolkit for Inspectable Multimodal Emotio... | Zheyuan Kuang, Weiwei Jiang et al. | [PDF](https://arxiv.org/abs/2603.02569v1) |
+| ⭐⭐⭐ 3.7 | Ignore All Previous Instructions: Jailbreaking as a de-es... | Huw Day, Adrianna Jezierska et al. | [PDF](https://arxiv.org/abs/2603.01942v1) |
+| ⭐⭐⭐ 3.6 | From Complex Dynamics to DynFormer: Rethinking Transforme... | Pengyu Lai, Yixiao Chen et al. | [PDF](https://arxiv.org/abs/2603.03112v1) |
+| ⭐⭐⭐ 3.6 | Revealing Positive and Negative Role Models to Help Peopl... | Avrim Blum, Keziah Naggita et al. | [PDF](https://arxiv.org/abs/2603.02495v1) |
+| ⭐⭐⭐ 3.6 | How Small Can 6G Reason? Scaling Tiny Language Models for... | Mohamed Amine Ferrag, Abderrahmane Lakas et al. | [PDF](https://arxiv.org/abs/2603.02156v1) |
+| ⭐⭐⭐ 3.6 | OpenRad: a Curated Repository of Open-access AI models fo... | Konstantinos Vrettos, Galini Papadaki et al. | [PDF](https://arxiv.org/abs/2603.02062v1) |
+| ⭐⭐⭐ 3.6 | Towards Privacy-Preserving LLM Inference via Collaborativ... | Yu Lin, Qizhi Zhang et al. | [PDF](https://arxiv.org/abs/2603.01499v1) |
+| ⭐⭐⭐ 3.6 | Agents Learn Their Runtime: Interpreter Persistence as Tr... | Victor May, Aaditya Salgarkar et al. | [PDF](https://arxiv.org/abs/2603.01209v1) |
+| ⭐⭐⭐ 3.6 | Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for... | Fengzhi Li, Liang Zhang et al. | [PDF](https://arxiv.org/abs/2603.02938v1) |
+| ⭐⭐⭐ 3.6 | FEAST: Retrieval-Augmented Multi-Hierarchical Food Classi... | Lorenzo Molfetta, Alessio Cocchieri et al. | [PDF](https://arxiv.org/abs/2603.03176v1) |
+
+
+---
+
+## 📁 数据存储
+
+- **原始数据**: [`data/arxiv_*_2026-03-05.jsonl`](https://github.com/lixingru416742566-tech/papers-pdf/tree/main/data)
+- **历史报告**: [`daily/`](https://github.com/lixingru416742566-tech/papers-pdf/tree/main/daily)
+
+---
+
+*本报告由 OpenClaw 自动生成 | [SOP 文档](https://github.com/lixingru416742566-tech/papers-pdf/blob/main/SOP.md)*
