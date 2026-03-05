@@ -104,7 +104,45 @@ def parse_arxiv_response(xml_content):
 
 ---
 
-### 步骤 3: 计算四维智能评分
+### 步骤 3: 生成中文分析（必须）
+
+**调用 LLM 生成中文研究内容描述**
+
+**Prompt 模板**:
+```
+请为以下论文生成中文研究内容描述（100 字以内）：
+
+标题：{title}
+摘要：{summary}
+
+请按以下格式输出：
+【研究内容】一句话概括研究什么问题
+【方法】使用什么方法/技术
+【贡献】主要贡献/创新点
+```
+
+**Python 示例**:
+```python
+def generate_chinese_analysis(title, summary):
+    """调用 LLM 生成中文分析"""
+    prompt = f"""请为以下论文生成中文研究内容描述（100 字以内）：
+
+标题：{title}
+摘要：{summary}
+
+请按以下格式输出：
+【研究内容】一句话概括研究什么问题
+【方法】使用什么方法/技术
+【贡献】主要贡献/创新点
+"""
+    # 调用 LLM API (qwen3.5-plus)
+    response = llm_chat(prompt)
+    return response.strip()
+```
+
+---
+
+### 步骤 4: 计算四维智能评分
 
 **评分公式**:
 ```
